@@ -1,0 +1,15 @@
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.csproj.AssemblyReference.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.AssemblyInfoInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.AssemblyInfo.cs
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.csproj.CoreCompileInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\bin\Debug\net6.0\Task4_CW.exe
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\bin\Debug\net6.0\Task4_CW.deps.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\bin\Debug\net6.0\Task4_CW.runtimeconfig.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\bin\Debug\net6.0\Task4_CW.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\bin\Debug\net6.0\Task4_CW.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\refint\Task4_CW.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\Task4_CW.genruntimeconfig.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task4_CW\obj\Debug\net6.0\ref\Task4_CW.dll
