@@ -7,8 +7,7 @@ double[] GetArray(int length)
     
     for (int i = 0; i < length; i++)
     {
-        array[i] = new Random().Next(100,1000);
-        array[i] = Convert.ToDouble(new Random().Next(100,1000)) / 100;
+            array[i] = Convert.ToDouble(new Random().Next(100,1000)) / 100;
     }
     return array;
 }
