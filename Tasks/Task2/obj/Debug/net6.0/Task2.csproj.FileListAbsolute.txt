@@ -1,0 +1,15 @@
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\bin\Debug\net6.0\Task2.exe
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\bin\Debug\net6.0\Task2.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\bin\Debug\net6.0\Task2.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2\obj\Debug\net6.0\ref\Task2.dll
