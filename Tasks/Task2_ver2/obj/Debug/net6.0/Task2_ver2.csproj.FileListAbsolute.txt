@@ -1,0 +1,15 @@
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\bin\Debug\net6.0\Task2_ver2.exe
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\bin\Debug\net6.0\Task2_ver2.deps.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\bin\Debug\net6.0\Task2_ver2.runtimeconfig.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\bin\Debug\net6.0\Task2_ver2.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\bin\Debug\net6.0\Task2_ver2.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.csproj.AssemblyReference.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.AssemblyInfoInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.AssemblyInfo.cs
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.csproj.CoreCompileInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\refint\Task2_ver2.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\Task2_ver2.genruntimeconfig.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Semenar5_Tasks\Tasks\Task2_ver2\obj\Debug\net6.0\ref\Task2_ver2.dll
